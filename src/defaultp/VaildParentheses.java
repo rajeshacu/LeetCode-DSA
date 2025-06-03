@@ -30,7 +30,7 @@ public class VaildParentheses {
 	}
 
 	public static void main(String[] args) {
-		String str="[]";
+		String str="(())";
 		VaildParentheses vp=new VaildParentheses();
 		boolean sol=vp.Solution(str);
 		if(sol) {
