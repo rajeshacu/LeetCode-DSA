@@ -1,11 +1,26 @@
-# Ignore compiled class files
-bin/
-
-# Ignore Eclipse project files if any are added later
+# Eclipse metadata
+.metadata/
 .classpath
 .project
 .settings/
 
-# Ignore OS files
+# Java build output
+bin/
+target/
+build/
+out/
+
+# OS files
 .DS_Store
 Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
