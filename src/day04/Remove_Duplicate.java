@@ -1,4 +1,4 @@
-package defaultp;
+package day04;
 
 import java.util.HashSet;
 

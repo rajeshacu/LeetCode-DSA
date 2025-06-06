@@ -1,4 +1,4 @@
-package defaultp;
+package day03;
 
 class InsufficientException extends RuntimeException {
 	public InsufficientException(String msg) {
