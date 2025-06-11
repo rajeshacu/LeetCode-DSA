@@ -14,9 +14,14 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
