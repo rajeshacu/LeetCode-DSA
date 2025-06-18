@@ -28,9 +28,11 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
