@@ -15,11 +15,13 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0414-third-maximum-number) |
@@ -32,6 +34,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
 ## String
