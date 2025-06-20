@@ -39,12 +39,18 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
