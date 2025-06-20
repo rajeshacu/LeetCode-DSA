@@ -14,6 +14,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -56,4 +57,8 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
