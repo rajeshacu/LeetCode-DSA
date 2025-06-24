@@ -25,12 +25,14 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 | [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,12 +40,14 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 | [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 ## Math
 |  |
