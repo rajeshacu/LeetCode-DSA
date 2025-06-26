@@ -49,6 +49,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +67,5 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0541-reverse-string-ii](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
