@@ -1,21 +1,14 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        if(nums.length<2){
-           System.out.println(Arrays.toString(nums));
+        int j = 0; // Pointer to place the next non-zero element
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+                // Swap current element with the element at index j 
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+                j++;   // Move j to the next index for placing non-zero
+            }
         }
-        for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length-1;j++){
-            if(nums[j]==0){
-
-                int temp=nums[j];
-                nums[j]=nums[j+1];
-                nums[j+1]=temp;
-            }
-            }
-
-            }
-                       System.out.println(Arrays.toString(nums));
-
-        }
-        
     }
+}
