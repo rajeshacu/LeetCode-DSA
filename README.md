@@ -49,12 +49,14 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 | [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
