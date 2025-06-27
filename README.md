@@ -18,6 +18,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 | [0136-single-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
@@ -67,5 +68,6 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
