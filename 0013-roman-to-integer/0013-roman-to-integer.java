@@ -1,17 +1,24 @@
 class Solution {
     public int romanToInt(String s) {
-        String symbols = "IVXLCDM";
-        int[] value = {1, 5, 10, 50, 100, 500, 1000};
+        HashMap<Character, Integer> r = new HashMap<>();
+        r.put('I', 1);
+        r.put('V', 5);
+        r.put('X', 10);
+        r.put('L', 50);
+        r.put('C', 100);
+        r.put('D', 500);
+        r.put('M', 1000);
 
-        Map<Character, Integer> numerals = new HashMap<>();
-        for (int i = 0; i < 7; i++)
-            numerals.put(symbols.charAt(i), value[i]);
+        int total = 0, prev = 0;
 
-        int romanToInteger = numerals.get(s.charAt(s.length() - 1));
-        for (int i = 0; i < s.length() - 1; i++) {
-            int sign = numerals.get(s.charAt(i)) < numerals.get(s.charAt(i + 1)) ? -1 : 1;
-            romanToInteger += sign * numerals.get(s.charAt(i));
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int cur = r.get(s.charAt(i));
+            if (cur < prev)
+                total -= cur;
+            else
+                total += cur;
+            prev = cur;
         }
-        return romanToInteger;
+        return total;
     }
 }
