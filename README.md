@@ -37,6 +37,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0242-valid-anagram) |
@@ -55,6 +57,7 @@ Inside each folder, you’ll find `.java` files corresponding to individual prob
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajeshacu/LeetCode-DSA/tree/master/0415-add-strings) |
